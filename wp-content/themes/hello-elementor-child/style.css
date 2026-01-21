@@ -33,12 +33,33 @@ h6,
     font-family: var(--isn-font-family) !important;
 }
 
+/* Barra de Topo (Anúncio) */
+.header-top-bar {
+    background-color: #1a1a1a !important;
+    color: var(--isn-text-white) !important;
+    font-family: var(--isn-font-family) !important;
+    font-size: 11px !important;
+    font-weight: 700 !important;
+    text-transform: uppercase !important;
+    padding: 8px 0 !important;
+    text-align: center !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.header-top-bar i,
+.header-top-bar svg {
+    margin-right: 8px !important;
+    font-size: 14px !important;
+}
+
 /* Cabeçalho e Navegação (Baseado no Screenshot) */
 .site-header {
     background-color: #121212 !important;
     /* Fundo bem escuro */
-    border-bottom: 4px solid var(--isn-primary) !important;
-    /* Barra neon inferior */
+    border-bottom: 6px solid var(--isn-primary) !important;
+    /* Barra neon inferior mais grossa */
 }
 
 /* Menu de Navegação */
@@ -48,14 +69,30 @@ h6,
     font-family: var(--isn-font-family) !important;
     text-transform: uppercase !important;
     font-weight: 700 !important;
-    font-size: 13px !important;
-    letter-spacing: 0.5px !important;
-    padding: 10px 15px !important;
+    font-size: 12px !important;
+    /* Ligeiramente menor para caber tudo */
+    letter-spacing: 0.8px !important;
+    padding: 12px 18px !important;
+    transition: color 0.3s ease !important;
 }
 
+/* Item Ativo ou Hover */
+.main-navigation ul.menu li.current-menu-item a,
 .main-navigation ul.menu li a:hover,
+.elementor-nav-menu li.current-menu-item a,
 .elementor-nav-menu li a:hover {
     color: var(--isn-primary) !important;
+}
+
+/* Dropdown Arrows (Chevrons) */
+.menu-item-has-children>a::after {
+    content: '\f107';
+    /* FontAwesome chevron-down se disponível */
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    margin-left: 5px;
+    font-size: 10px;
+    vertical-align: middle;
 }
 
 /* Barra de Busca (Estilo Pílula no Header) */
