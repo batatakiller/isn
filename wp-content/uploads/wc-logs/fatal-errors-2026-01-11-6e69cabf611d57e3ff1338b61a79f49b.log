@@ -1,0 +1,7 @@
+2026-01-11T04:27:35+00:00 CRITICAL Uncaught Error: Call to a member function get_cross_sells() on null in /home/u382405500/domains/socards.com.br/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php:2199
+Stack trace:
+#0 /home/u382405500/domains/socards.com.br/public_html/wp-content/plugins/elementor-pro/modules/woocommerce/module.php(1246): woocommerce_cross_sell_display(3, 3, 'date', 'desc')
+#1 /home/u382405500/domains/socards.com.br/public_html/wp-content/plugins/elementor-pro/modules/woocommerce/module.php(1146): ElementorPro\Modules\Woocommerce\Module::get_product_widget_content(Array, 'cross_sells', 'woocommerce_pro...', 'products_cross_...')
+#2 /home/u382405500/domains/socards.com.br/public_html/wp-content/plugins/elementor-pro/modules/woocommerce/widgets/products.php(356): ElementorPro\Modules\Woocommerce\Module::get_cross_sells_content(Array)
+#3 /home/u382405500/domains/socards.com.br/public_html/wp-content/plugins/elementor/includes/base/controls-stack.php(2297): ElementorPro\Modules\Woocommerce\Widgets\Produc in /home/u382405500/domains/socards.com.br/public_html/wp-content/plugins/woocommerce/includes/wc-template-functions.php on line 2199
+

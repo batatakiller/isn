@@ -1,0 +1,26 @@
+{
+    "open sans": {
+        "normal": "\/home\/u382405500\/domains\/socards.com.br\/public_html\/wp-content\/uploads\/wpo_wcpdf_e7e46e1058ac363f02289c87f7c0bd88\/fonts\/OpenSans-Normal",
+        "bold": "\/home\/u382405500\/domains\/socards.com.br\/public_html\/wp-content\/uploads\/wpo_wcpdf_e7e46e1058ac363f02289c87f7c0bd88\/fonts\/OpenSans-Bold",
+        "italic": "\/home\/u382405500\/domains\/socards.com.br\/public_html\/wp-content\/uploads\/wpo_wcpdf_e7e46e1058ac363f02289c87f7c0bd88\/fonts\/OpenSans-Italic",
+        "bold_italic": "\/home\/u382405500\/domains\/socards.com.br\/public_html\/wp-content\/uploads\/wpo_wcpdf_e7e46e1058ac363f02289c87f7c0bd88\/fonts\/OpenSans-BoldItalic"
+    },
+    "segoe": {
+        "normal": "\/home\/u382405500\/domains\/socards.com.br\/public_html\/wp-content\/uploads\/wpo_wcpdf_e7e46e1058ac363f02289c87f7c0bd88\/fonts\/Segoe-Normal",
+        "bold": "\/home\/u382405500\/domains\/socards.com.br\/public_html\/wp-content\/uploads\/wpo_wcpdf_e7e46e1058ac363f02289c87f7c0bd88\/fonts\/Segoe-Bold",
+        "italic": "\/home\/u382405500\/domains\/socards.com.br\/public_html\/wp-content\/uploads\/wpo_wcpdf_e7e46e1058ac363f02289c87f7c0bd88\/fonts\/Segoe-Italic",
+        "bold_italic": "\/home\/u382405500\/domains\/socards.com.br\/public_html\/wp-content\/uploads\/wpo_wcpdf_e7e46e1058ac363f02289c87f7c0bd88\/fonts\/Segoe-BoldItalic"
+    },
+    "roboto slab": {
+        "normal": "\/home\/u382405500\/domains\/socards.com.br\/public_html\/wp-content\/uploads\/wpo_wcpdf_e7e46e1058ac363f02289c87f7c0bd88\/fonts\/RobotoSlab-Normal",
+        "bold": "\/home\/u382405500\/domains\/socards.com.br\/public_html\/wp-content\/uploads\/wpo_wcpdf_e7e46e1058ac363f02289c87f7c0bd88\/fonts\/RobotoSlab-Bold",
+        "italic": "\/home\/u382405500\/domains\/socards.com.br\/public_html\/wp-content\/uploads\/wpo_wcpdf_e7e46e1058ac363f02289c87f7c0bd88\/fonts\/RobotoSlab-Italic",
+        "bold_italic": "\/home\/u382405500\/domains\/socards.com.br\/public_html\/wp-content\/uploads\/wpo_wcpdf_e7e46e1058ac363f02289c87f7c0bd88\/fonts\/RobotoSlab-BoldItalic"
+    },
+    "currencies": {
+        "normal": "\/home\/u382405500\/domains\/socards.com.br\/public_html\/wp-content\/uploads\/wpo_wcpdf_e7e46e1058ac363f02289c87f7c0bd88\/fonts\/currencies",
+        "bold": "\/home\/u382405500\/domains\/socards.com.br\/public_html\/wp-content\/uploads\/wpo_wcpdf_e7e46e1058ac363f02289c87f7c0bd88\/fonts\/currencies",
+        "italic": "\/home\/u382405500\/domains\/socards.com.br\/public_html\/wp-content\/uploads\/wpo_wcpdf_e7e46e1058ac363f02289c87f7c0bd88\/fonts\/currencies",
+        "bold_italic": "\/home\/u382405500\/domains\/socards.com.br\/public_html\/wp-content\/uploads\/wpo_wcpdf_e7e46e1058ac363f02289c87f7c0bd88\/fonts\/currencies"
+    }
+}

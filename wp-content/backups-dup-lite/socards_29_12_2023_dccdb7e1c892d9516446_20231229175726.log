@@ -1,0 +1,72 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 29 de December de 2023 17:57
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.7.1
+WORDPRESS:	6.4.2
+PHP INFO:	7.4.33 | SAPI: litespeed
+SERVER:		LiteSpeed 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 20MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: socards_29_12_2023_dccdb7e1c892d9516446_20231229175726_database.sql
+SQL FILE SIZE: 9.39MB (9842849)
+SQL FILE TIME: 2023-12-29 17:57:42
+SQL RUNTIME: 0.30 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  /home/u382405500/domains/socards.com.br/public_html
+ARCHIVE FILE: socards_29_12_2023_dccdb7e1c892d9516446_20231229175726_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	299.73MB
+STATS:	Dirs 3,582 | Files 19,711
+SQL ADDED: socards_29_12_2023_dccdb7e1c892d9516446_20231229175726_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 23293
+    [filename] => /home/u382405500/domains/socards.com.br/public_html/wp-content/backups-dup-lite/tmp/socards_29_12_2023_dccdb7e1c892d9516446_20231229175726_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 23292
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 116.04MB
+ARCHIVE RUNTIME: 19.08 sec.
+MEMORY STACK: 27.57MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 9.39MB
+INSTALLER FILE: 73.48KB
+ARCHIVE FILE: 118.22MB 
+EXPECTED FILE/DIRECTORY COUNT: 23,293
+ACTUAL FILE/DIRECTORY COUNT: 23,292
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[2]
+TOTAL PROCESS RUNTIME: 20.84 sec.
+PEAK PHP MEMORY USED: 33.57MB
+DONE PROCESSING => socards_29_12_2023 29 de December de 2023 17:58
+

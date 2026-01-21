@@ -1,0 +1,63 @@
+.woo-parcelas-com-e-sem-juros form{
+	position: relative;
+}
+.woo-parcelas-com-e-sem-juros form .tabs{
+	position: relative;
+	margin-top: 10px;
+}
+.woo-parcelas-com-e-sem-juros form .tabs .section{
+	padding-left: 0;
+}
+.woo-parcelas-com-e-sem-juros form .tabs > h3{
+	position: absolute;
+	top: 0;
+	float: left;
+    border: 1px solid #c3c4c7;
+    border-bottom: none;
+    margin-left: 0.5em;
+    padding: 5px 10px;
+    font-size: 14px;
+    line-height: 1.71428571;
+    font-weight: 600;
+    background: #dcdcde;
+    color: #50575e;
+    text-decoration: none;
+    white-space: nowrap;
+}
+.tabs .section{
+	padding-top: 50px;
+}
+.tabs h3 + .section + h3{
+	left: 70px;
+}
+.tabs h3 + .section + h3 + .section + h3{
+	left: 158px;
+}
+.woo-parcelas-com-e-sem-juros form .tabs > h3.fs-active{
+	opacity: 1;
+	background-color: #f0f0f1;
+	border-color: #000000;
+	color: #000;
+}
+.woo-parcelas-com-e-sem-juros form h3 + .section{
+	display: none;	
+}
+.woo-parcelas-com-e-sem-juros form .tabs > h3.fs-active + .section{
+	display: block;	
+}
+.woo-parcelas-com-e-sem-juros .style label{
+	margin-left: 15px;
+}
+.woo-parcelas-com-e-sem-juros .style .in_loop,
+.woo-parcelas-com-e-sem-juros .style .in_single{
+	padding: 0 10px;
+}
+.woo-parcelas-com-e-sem-juros .style .wrapper{
+	margin-bottom: 30px;
+}
+.woo-parcelas-com-e-sem-juros .style *{
+	vertical-align: middle;
+}
+.woo-parcelas-com-e-sem-juros .wp-color-result{
+	margin: 0;
+}

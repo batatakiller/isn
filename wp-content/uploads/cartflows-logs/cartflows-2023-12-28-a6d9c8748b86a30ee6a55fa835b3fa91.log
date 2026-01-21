@@ -1,0 +1,5 @@
+2023-12-28T13:52:51+00:00 INFO Is weekly report enabled: enable
+2023-12-28T13:52:51+00:00 INFO Weekly report action scheduled. Action: cartflows_send_report_summary_email 
+2023-12-28T17:48:18+00:00 INFO Start-Cartflows_Frontend::redirect_to_thankyou_page
+2023-12-28T17:48:18+00:00 INFO Only for thank you page
+2023-12-28T17:48:18+00:00 INFO End-Cartflows_Frontend::redirect_to_thankyou_page

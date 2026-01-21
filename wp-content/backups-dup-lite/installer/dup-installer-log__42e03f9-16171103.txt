@@ -1,0 +1,1378 @@
+********************************************************************************
+* DUPLICATOR LITE: Install-Log
+* STEP-0 START @ 04:12:13
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ ORIGINAL SERVER                        |CURRENT SERVER
+OS__________________: Linux                                 |Linux
+PHP VERSION_________: 7.4.33                                |8.1.22
+********************************************************************************
+CURRENT SERVER INFO
+PHP_________________: 8.1.22 | SAPI: litespeed
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+ARCHITECTURE________: 64-bit
+SERVER______________: LiteSpeed
+DOC ROOT____________: "/home/u382405500/domains/socards.com.br/public_html"
+REQUEST URL_________: "https://batatoads.shop"
+********************************************************************************
+OVERWRITE PARAMS
+ *** FROM PACKAGE
+PARAM SET KEY[blogname]
+********************************************************************************
+MAINTENANCE MODE DISABLE
+INSTALLER INFO
+
+TEMPLATE____________: "base"
+VALIDATE ON START___: "normal"
+PATH_NEW____________: "/home/u382405500/domains/socards.com.br/public_html"
+URL_NEW_____________: "https://batatoads.shop"
+********************************************************************************
+ARCHIVE INFO
+
+ARCHIVE NAME________: "/home/u382405500/domains/socards.com.br/public_html/20230616_sualojasmart_[HASH]_20230616171103_archive.zip"
+ARCHIVE SIZE________: 100.9MB
+CREATED_____________: 2023-06-16 17:11:03
+WP VERSION__________: 6.2.2
+DUP VERSION_________: 1.5.4
+LICENSE_____________: Free version
+DB VERSION__________: 10.5.18
+DB FILE SIZE________: 15.67MB
+DB TABLES___________: 87
+DB ROWS_____________: 4597
+URL HOME____________: https://shop1.tmnetinfo.com.br
+URL CORE____________: https://shop1.tmnetinfo.com.br
+URL CONTENT_________: https://shop1.tmnetinfo.com.br/wp-content
+URL UPLOAD__________: https://shop1.tmnetinfo.com.br/wp-content/uploads
+URL PLUGINS_________: https://shop1.tmnetinfo.com.br/wp-content/plugins
+URL MU PLUGINS______: https://shop1.tmnetinfo.com.br/wp-content/mu-plugins
+URL THEMES__________: https://shop1.tmnetinfo.com.br/wp-content/themes
+PATH HOME___________: /home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br
+PATH ABS____________: /home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br
+PATH WPCONFIG_______: /home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br
+PATH WPCONTENT______: /home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br/wp-content
+PATH UPLOADS________: /home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br/wp-content/uploads
+PATH PLUGINS________: /home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br/wp-content/plugins
+PATH MUPLUGINS______: /home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br/wp-content/mu-plugins
+PATH THEMES_________: /home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br/wp-content/themes
+
+SUBSITES
+SUBSITE [ID:   1] "shop1.tmnetinfo.com.br/"
+
+PLUGINS
+PLUGIN [SLUG:akismet/akismet.php                               ][ON:true ]  Akismet Anti-Spam
+PLUGIN [SLUG:all-in-one-wp-migration/all-in-one-wp-migration.php][ON:true ]  All-in-One WP Migration
+PLUGIN [SLUG:woocommerce-extra-checkout-fields-for-brazil/woocommerce-extra-checkout-fields-for-brazil.php][ON:true ]  Brazilian Market on WooCommerce
+PLUGIN [SLUG:woocommerce-correios/woocommerce-correios.php     ][ON:false]  Claudio Sanches - Correios for WooCommerce
+PLUGIN [SLUG:woocommerce-pagseguro/woocommerce-pagseguro.php   ][ON:true ]  Claudio Sanches - PagSeguro for WooCommerce
+PLUGIN [SLUG:click-to-chat-for-whatsapp/click-to-chat.php      ][ON:true ]  Click to Chat
+PLUGIN [SLUG:duplicator/duplicator.php                         ][ON:true ]  Duplicator
+PLUGIN [SLUG:dynamic-visibility-for-elementor/dynamic-visibility-for-elementor.php][ON:true ]  Dynamic Visibility for Elementor
+PLUGIN [SLUG:elementor/elementor.php                           ][ON:true ]  Elementor
+PLUGIN [SLUG:elementor-pro/elementor-pro.php                   ][ON:true ]  Elementor Pro
+PLUGIN [SLUG:hide-admin-notices/hide-admin-notices.php         ][ON:true ]  Hide Admin Notices
+PLUGIN [SLUG:incuca-tech-pix-for-woocommerce/pix-for-woocommerce.php][ON:true ]  InCuca Tech - Pix for WooCommerce
+PLUGIN [SLUG:add-search-to-menu/add-search-to-menu.php         ][ON:true ]  Ivory Search
+PLUGIN [SLUG:melhor-envio-cotacao/melhor-envio-beta.php        ][ON:true ]  Melhor Envio
+PLUGIN [SLUG:woocommerce-mercadopago/woocommerce-mercadopago.php][ON:true ]  Mercado Pago payments for WooCommerce
+PLUGIN [SLUG:woocommerce-pdf-invoices-packing-slips/woocommerce-pdf-invoices-packingslips.php][ON:true ]  PDF Invoices & Packing Slips for WooCommerce
+PLUGIN [SLUG:white-label-cms/wlcms-plugin.php                  ][ON:true ]  White Label CMS
+PLUGIN [SLUG:woocommerce/woocommerce.php                       ][ON:true ]  WooCommerce
+PLUGIN [SLUG:woo-parcelas-com-e-sem-juros/woo-parcelas-com-e-sem-juros.php][ON:true ]  WooCommerce Parcelas Com e Sem Juros
+PLUGIN [SLUG:woocommerce-shipping-calculator-in-product-master/woocommerce-shipping-calculator-in-product.php][ON:true ]  WooCommerce Shipping Calculator in Product
+PLUGIN [SLUG:wps-hide-login/wps-hide-login.php                 ][ON:true ]  WPS Hide Login
+PLUGIN [SLUG:yaymail/yaymail.php                               ][ON:true ]  YayMail - WooCommerce Email Customizer
+
+********************************************************************************
+LOG-TIME[/home/u382405500/domains/socards.com.br/public_html/dup-installer/ctrls/ctrl.base.php:227][DELTA:   0.24949]  MESSAGE:END RENDER PAGE
+LOG-TIME[/home/u382405500/domains/socards.com.br/public_html/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+STEP ACTION: "settpm"
+NEW TEMPLATE:default
+--------------------------------------
+PATHS MAPPING : "/home/u382405500/domains/socards.com.br/public_html"
+--------------------------------------
+LOG-TIME[/home/u382405500/domains/socards.com.br/public_html/dup-installer/ctrls/ctrl.base.php:227][DELTA:   0.22256]  MESSAGE:END RENDER PAGE
+LOG-TIME[/home/u382405500/domains/socards.com.br/public_html/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u382405500/domains/socards.com.br/public_html/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+STEP ACTION: "on-validate"
+--------------------------------------
+PATHS MAPPING : "/home/u382405500/domains/socards.com.br/public_html"
+--------------------------------------
+LOG-TIME[/home/u382405500/domains/socards.com.br/public_html/dup-installer/ctrls/ctrl.base.php:227][DELTA:   0.23080]  MESSAGE:END RENDER PAGE
+LOG-TIME[/home/u382405500/domains/socards.com.br/public_html/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [validate] START
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Archive Check" RESULT: passed
+
+START TEST "Duplicator importer version" [CLASS: DUPX_Validation_test_importer_version]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Duplicator importer version" RESULT: skip
+
+START TEST "Overwrite Install" [CLASS: DUPX_Validation_test_owrinstall]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Overwrite Install" RESULT: skip
+
+START TEST "Recovery Point" [CLASS: DUPX_Validation_test_recovery]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Recovery Point" RESULT: skip
+
+START TEST "Package is Importable" [CLASS: DUPX_Validation_test_importable]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Package is Importable" RESULT: skip
+
+START TEST "REST API test" [CLASS: DUPX_Validation_test_rest_api]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "REST API test" RESULT: skip
+
+START TEST "Manual extraction detected" [CLASS: DUPX_Validation_test_manual_extraction]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Manual extraction detected" RESULT: good
+
+START TEST "Database Only" [CLASS: DUPX_Validation_test_dbonly_iswordpress]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database Only" RESULT: skip
+
+START TEST "Package Age" [CLASS: DUPX_Validation_test_package_age]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Package Age" RESULT: soft warning
+
+START TEST "Package Size" [CLASS: DUPX_Validation_test_package_size]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Package Size" RESULT: good
+
+START TEST "Replace PATHs in database" [CLASS: DUPX_Validation_test_replace_paths]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Replace PATHs in database" RESULT: skip
+
+START TEST "Managed hosting supported" [CLASS: DUPX_Validation_test_managed_supported]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Managed hosting supported" RESULT: skip
+
+START TEST "Siteground" [CLASS: DUPX_Validation_test_siteground]
+LOG-TIME[DELTA:   0.00008]  MESSAGE:TEST "Siteground" RESULT: skip
+
+START TEST "Addon Sites" [CLASS: DUPX_Validation_test_addon_sites]
+--------------------------------------
+PATHS MAPPING : "/home/u382405500/domains/socards.com.br/public_html"
+--------------------------------------
+LOG-TIME[DELTA:   0.36786]  MESSAGE:TEST "Addon Sites" RESULT: good
+
+START TEST "Wordfence" [CLASS: DUPX_Validation_test_wordfence]
+LOG-TIME[DELTA:   0.00043]  MESSAGE:TEST "Wordfence" RESULT: good
+
+START TEST "Table prefix of managed hosting" [CLASS: DUPX_Validation_test_managed_tprefix]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Table prefix of managed hosting" RESULT: skip
+
+START TEST "PHP Version Mismatch" [CLASS: DUPX_Validation_test_php_version]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Version Mismatch" RESULT: soft warning
+
+START TEST "PHP Open Base" [CLASS: DUPX_Validation_test_open_basedir]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Open Base" RESULT: good
+
+START TEST "PHP Memory Limit" [CLASS: DUPX_Validation_test_memory_limit]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Memory Limit" RESULT: good
+
+START TEST "PHP Extensions" [CLASS: DUPX_Validation_test_extensions]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Extensions" RESULT: good
+
+START TEST "PHP Mysqli" [CLASS: DUPX_Validation_test_mysql_connect]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Mysqli" RESULT: passed
+
+START TEST "PHP Tokenizer" [CLASS: DUPX_Validation_test_tokenizer]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Tokenizer" RESULT: passed
+
+START TEST "PHP Timeout" [CLASS: DUPX_Validation_test_timeout]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Timeout" RESULT: good
+
+START TEST "Disk Space" [CLASS: DUPX_Validation_test_disk_space]
+LOG-TIME[DELTA:   0.01121]  MESSAGE:TEST "Disk Space" RESULT: good
+
+START TEST "Permissions: General" [CLASS: DUPX_Validation_test_iswritable]
+LOG-TIME[DELTA:   0.00602]  MESSAGE:TEST "Permissions: General" RESULT: passed
+
+START TEST "Permissions: Configs Files " [CLASS: DUPX_Validation_test_iswritable_configs]
+LOG-TIME[DELTA:   0.00005]  MESSAGE:TEST "Permissions: Configs Files " RESULT: passed
+
+START TEST "Host Name" [CLASS: DUPX_Validation_test_db_host_name]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Host Name" RESULT: passed
+
+START TEST "Host Connection" [CLASS: DUPX_Validation_test_db_connection]
+LOG-TIME[DELTA:   0.00106]  MESSAGE:TEST "Host Connection" RESULT: passed
+
+START TEST "Database Version" [CLASS: DUPX_Validation_test_db_version]
+LOG-TIME[DELTA:   0.00084]  MESSAGE:TEST "Database Version" RESULT: passed
+
+START TEST "Create New Database" [CLASS: DUPX_Validation_test_db_create]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Create New Database" RESULT: skip
+
+START TEST "Database Engine Support" [CLASS: DUPX_Validation_test_db_supported_engine]
+LOG-TIME[DELTA:   0.00014]  MESSAGE:TEST "Database Engine Support" RESULT: passed
+
+START TEST "Database GTID Mode" [CLASS: DUPX_Validation_test_db_gtid_mode]
+LOG-TIME[DELTA:   0.00008]  MESSAGE:TEST "Database GTID Mode" RESULT: passed
+
+START TEST "Privileges: User Visibility" [CLASS: DUPX_Validation_test_db_visibility]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Privileges: User Visibility" RESULT: passed
+
+START TEST "Manual Table Check" [CLASS: DUPX_Validation_test_db_manual_tabels_count]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Manual Table Check" RESULT: skip
+
+START TEST "Multiple WordPress Installs" [CLASS: DUPX_Validation_test_db_multiple_wp_installs]
+LOG-TIME[DELTA:   0.00030]  MESSAGE:TEST "Multiple WordPress Installs" RESULT: passed
+
+START TEST "Privileges: User Resources" [CLASS: DUPX_Validation_test_db_user_resources]
+DB QUERY [ERROR][/home/u382405500/domains/socards.com.br/public_html/dup-installer/classes/database/class.db.php:645] MSG: SELECT command denied to user 'u382405500_shop'@'localhost' for table `mysql`.`user`
+	SQL: SELECT max_questions, max_updates, max_connections FROM mysql.user WHERE user = 'u382405500_shop' AND host = 'localhost'
+TRACE[1] CLASS___: DUPX_DB::mysqli_query      FILE: /home/u382405500/domains/socards.com.br/public_html/dup-installer/classes/validation/class.validation.database.service.php[742]
+TRACE[2] CLASS___: DUPX_Validation_database_service->getUserResources FILE: /home/u382405500/domains/socards.com.br/public_html/dup-installer/classes/validation/database-tests/class.validation.test.db.user.resources.php[28]
+TRACE[3] CLASS___: DUPX_Validation_test_db_user_resources->runTest FILE: /home/u382405500/domains/socards.com.br/public_html/dup-installer/classes/validation/class.validation.abstract.item.php[46]
+TRACE[4] CLASS___: DUPX_Validation_abstract_item->test FILE: /home/u382405500/domains/socards.com.br/public_html/dup-installer/classes/validation/class.validation.manager.php[232]
+TRACE[5] CLASS___: DUPX_Validation_manager->runTests FILE: /home/u382405500/domains/socards.com.br/public_html/dup-installer/classes/validation/class.validation.manager.php[205]
+TRACE[6] CLASS___: DUPX_Validation_manager->getValidateData FILE: /home/u382405500/domains/socards.com.br/public_html/dup-installer/ctrls/classes/class.ctrl.ajax.php[173]
+TRACE[7] CLASS___: DUPX_Ctrl_ajax::actions    FILE: /home/u382405500/domains/socards.com.br/public_html/dup-installer/ctrls/classes/class.ctrl.ajax.php[95]
+TRACE[8] CLASS___: DUPX_Ctrl_ajax::controller FILE: /home/u382405500/domains/socards.com.br/public_html/dup-installer/main.installer.php[56]
+
+LOG-TIME[DELTA:   0.00011]  MESSAGE:TEST "Privileges: User Resources" RESULT: passed
+
+START TEST "Privileges: User Table Access" [CLASS: DUPX_Validation_test_db_user_perms]
+LOG-TIME[DELTA:   0.01675]  MESSAGE:TEST "Privileges: User Table Access" RESULT: passed
+
+START TEST "Privileges: 'Show Variables' Query" [CLASS: DUPX_Validation_test_db_custom_queries]
+LOG-TIME[DELTA:   0.00033]  MESSAGE:TEST "Privileges: 'Show Variables' Query" RESULT: passed
+
+START TEST "Source Database Triggers" [CLASS: DUPX_Validation_test_db_triggers]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Source Database Triggers" RESULT: passed
+
+START TEST "Character Set and Collation Support" [CLASS: DUPX_Validation_test_db_supported_default_charset]
+LOG-TIME[DELTA:   0.00056]  MESSAGE:TEST "Character Set and Collation Support" RESULT: passed
+
+START TEST "Character Set and  Collation Capability" [CLASS: DUPX_Validation_test_db_supported_charset]
+LOG-TIME[DELTA:   0.00005]  MESSAGE:TEST "Character Set and  Collation Capability" RESULT: passed
+
+START TEST "Tables Case Sensitivity" [CLASS: DUPX_Validation_test_db_case_sensitive_tables]
+LOG-TIME[DELTA:   0.00030]  MESSAGE:TEST "Tables Case Sensitivity" RESULT: passed
+
+START TEST "Tables Flagged for Removal or Backup" [CLASS: DUPX_Validation_test_db_affected_tables]
+LOG-TIME[DELTA:   0.00025]  MESSAGE:TEST "Tables Flagged for Removal or Backup" RESULT: passed
+
+START TEST "Prefix too long" [CLASS: DUPX_Validation_test_db_prefix_too_long]
+LOG-TIME[DELTA:   0.00010]  MESSAGE:TEST "Prefix too long" RESULT: passed
+
+START TEST "Database cleanup" [CLASS: DUPX_Validation_test_db_cleanup]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database cleanup" RESULT: skip
+
+
+CTRL PARAMS AFTER VALIDATION
+AJAX ACTION [validate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u382405500/domains/socards.com.br/public_html/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+STEP ACTION: "on-validate"
+--------------------------------------
+PATHS MAPPING : "/home/u382405500/domains/socards.com.br/public_html"
+--------------------------------------
+LOG-TIME[/home/u382405500/domains/socards.com.br/public_html/dup-installer/ctrls/ctrl.base.php:227][DELTA:   0.23534]  MESSAGE:END RENDER PAGE
+LOG-TIME[/home/u382405500/domains/socards.com.br/public_html/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [validate] START
+START TEST "Archive Check" [CLASS: DUPX_Validation_test_archive_check]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Archive Check" RESULT: passed
+
+START TEST "Duplicator importer version" [CLASS: DUPX_Validation_test_importer_version]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Duplicator importer version" RESULT: skip
+
+START TEST "Overwrite Install" [CLASS: DUPX_Validation_test_owrinstall]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Overwrite Install" RESULT: skip
+
+START TEST "Recovery Point" [CLASS: DUPX_Validation_test_recovery]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Recovery Point" RESULT: skip
+
+START TEST "Package is Importable" [CLASS: DUPX_Validation_test_importable]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Package is Importable" RESULT: skip
+
+START TEST "REST API test" [CLASS: DUPX_Validation_test_rest_api]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "REST API test" RESULT: skip
+
+START TEST "Manual extraction detected" [CLASS: DUPX_Validation_test_manual_extraction]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Manual extraction detected" RESULT: good
+
+START TEST "Database Only" [CLASS: DUPX_Validation_test_dbonly_iswordpress]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database Only" RESULT: skip
+
+START TEST "Package Age" [CLASS: DUPX_Validation_test_package_age]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Package Age" RESULT: soft warning
+
+START TEST "Package Size" [CLASS: DUPX_Validation_test_package_size]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Package Size" RESULT: good
+
+START TEST "Replace PATHs in database" [CLASS: DUPX_Validation_test_replace_paths]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Replace PATHs in database" RESULT: skip
+
+START TEST "Managed hosting supported" [CLASS: DUPX_Validation_test_managed_supported]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Managed hosting supported" RESULT: skip
+
+START TEST "Siteground" [CLASS: DUPX_Validation_test_siteground]
+LOG-TIME[DELTA:   0.00007]  MESSAGE:TEST "Siteground" RESULT: skip
+
+START TEST "Addon Sites" [CLASS: DUPX_Validation_test_addon_sites]
+--------------------------------------
+PATHS MAPPING : "/home/u382405500/domains/socards.com.br/public_html"
+--------------------------------------
+LOG-TIME[DELTA:   0.23534]  MESSAGE:TEST "Addon Sites" RESULT: good
+
+START TEST "Wordfence" [CLASS: DUPX_Validation_test_wordfence]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Wordfence" RESULT: good
+
+START TEST "Table prefix of managed hosting" [CLASS: DUPX_Validation_test_managed_tprefix]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "Table prefix of managed hosting" RESULT: skip
+
+START TEST "PHP Version Mismatch" [CLASS: DUPX_Validation_test_php_version]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Version Mismatch" RESULT: good
+
+START TEST "PHP Open Base" [CLASS: DUPX_Validation_test_open_basedir]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Open Base" RESULT: good
+
+START TEST "PHP Memory Limit" [CLASS: DUPX_Validation_test_memory_limit]
+LOG-TIME[DELTA:   0.00002]  MESSAGE:TEST "PHP Memory Limit" RESULT: good
+
+START TEST "PHP Extensions" [CLASS: DUPX_Validation_test_extensions]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Extensions" RESULT: good
+
+START TEST "PHP Mysqli" [CLASS: DUPX_Validation_test_mysql_connect]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Mysqli" RESULT: passed
+
+START TEST "PHP Tokenizer" [CLASS: DUPX_Validation_test_tokenizer]
+LOG-TIME[DELTA:   0.00000]  MESSAGE:TEST "PHP Tokenizer" RESULT: passed
+
+START TEST "PHP Timeout" [CLASS: DUPX_Validation_test_timeout]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "PHP Timeout" RESULT: good
+
+START TEST "Disk Space" [CLASS: DUPX_Validation_test_disk_space]
+LOG-TIME[DELTA:   0.01057]  MESSAGE:TEST "Disk Space" RESULT: good
+
+START TEST "Permissions: General" [CLASS: DUPX_Validation_test_iswritable]
+LOG-TIME[DELTA:   0.00594]  MESSAGE:TEST "Permissions: General" RESULT: passed
+
+START TEST "Permissions: Configs Files " [CLASS: DUPX_Validation_test_iswritable_configs]
+LOG-TIME[DELTA:   0.00004]  MESSAGE:TEST "Permissions: Configs Files " RESULT: passed
+
+START TEST "Host Name" [CLASS: DUPX_Validation_test_db_host_name]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Host Name" RESULT: passed
+
+START TEST "Host Connection" [CLASS: DUPX_Validation_test_db_connection]
+LOG-TIME[DELTA:   0.00030]  MESSAGE:TEST "Host Connection" RESULT: passed
+
+START TEST "Database Version" [CLASS: DUPX_Validation_test_db_version]
+LOG-TIME[DELTA:   0.00085]  MESSAGE:TEST "Database Version" RESULT: passed
+
+START TEST "Create New Database" [CLASS: DUPX_Validation_test_db_create]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Create New Database" RESULT: skip
+
+START TEST "Database Engine Support" [CLASS: DUPX_Validation_test_db_supported_engine]
+LOG-TIME[DELTA:   0.00015]  MESSAGE:TEST "Database Engine Support" RESULT: passed
+
+START TEST "Database GTID Mode" [CLASS: DUPX_Validation_test_db_gtid_mode]
+LOG-TIME[DELTA:   0.00006]  MESSAGE:TEST "Database GTID Mode" RESULT: passed
+
+START TEST "Privileges: User Visibility" [CLASS: DUPX_Validation_test_db_visibility]
+LOG-TIME[DELTA:   0.00003]  MESSAGE:TEST "Privileges: User Visibility" RESULT: passed
+
+START TEST "Manual Table Check" [CLASS: DUPX_Validation_test_db_manual_tabels_count]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Manual Table Check" RESULT: skip
+
+START TEST "Multiple WordPress Installs" [CLASS: DUPX_Validation_test_db_multiple_wp_installs]
+LOG-TIME[DELTA:   0.00028]  MESSAGE:TEST "Multiple WordPress Installs" RESULT: passed
+
+START TEST "Privileges: User Resources" [CLASS: DUPX_Validation_test_db_user_resources]
+DB QUERY [ERROR][/home/u382405500/domains/socards.com.br/public_html/dup-installer/classes/database/class.db.php:645] MSG: SELECT command denied to user 'u382405500_shop'@'localhost' for table `mysql`.`user`
+	SQL: SELECT max_questions, max_updates, max_connections FROM mysql.user WHERE user = 'u382405500_shop' AND host = 'localhost'
+TRACE[1] CLASS___: DUPX_DB::mysqli_query      FILE: /home/u382405500/domains/socards.com.br/public_html/dup-installer/classes/validation/class.validation.database.service.php[742]
+TRACE[2] CLASS___: DUPX_Validation_database_service->getUserResources FILE: /home/u382405500/domains/socards.com.br/public_html/dup-installer/classes/validation/database-tests/class.validation.test.db.user.resources.php[28]
+TRACE[3] CLASS___: DUPX_Validation_test_db_user_resources->runTest FILE: /home/u382405500/domains/socards.com.br/public_html/dup-installer/classes/validation/class.validation.abstract.item.php[46]
+TRACE[4] CLASS___: DUPX_Validation_abstract_item->test FILE: /home/u382405500/domains/socards.com.br/public_html/dup-installer/classes/validation/class.validation.manager.php[232]
+TRACE[5] CLASS___: DUPX_Validation_manager->runTests FILE: /home/u382405500/domains/socards.com.br/public_html/dup-installer/classes/validation/class.validation.manager.php[205]
+TRACE[6] CLASS___: DUPX_Validation_manager->getValidateData FILE: /home/u382405500/domains/socards.com.br/public_html/dup-installer/ctrls/classes/class.ctrl.ajax.php[173]
+TRACE[7] CLASS___: DUPX_Ctrl_ajax::actions    FILE: /home/u382405500/domains/socards.com.br/public_html/dup-installer/ctrls/classes/class.ctrl.ajax.php[95]
+TRACE[8] CLASS___: DUPX_Ctrl_ajax::controller FILE: /home/u382405500/domains/socards.com.br/public_html/dup-installer/main.installer.php[56]
+
+LOG-TIME[DELTA:   0.00011]  MESSAGE:TEST "Privileges: User Resources" RESULT: passed
+
+START TEST "Privileges: User Table Access" [CLASS: DUPX_Validation_test_db_user_perms]
+LOG-TIME[DELTA:   0.01529]  MESSAGE:TEST "Privileges: User Table Access" RESULT: passed
+
+START TEST "Privileges: 'Show Variables' Query" [CLASS: DUPX_Validation_test_db_custom_queries]
+LOG-TIME[DELTA:   0.00035]  MESSAGE:TEST "Privileges: 'Show Variables' Query" RESULT: passed
+
+START TEST "Source Database Triggers" [CLASS: DUPX_Validation_test_db_triggers]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Source Database Triggers" RESULT: passed
+
+START TEST "Character Set and Collation Support" [CLASS: DUPX_Validation_test_db_supported_default_charset]
+LOG-TIME[DELTA:   0.00060]  MESSAGE:TEST "Character Set and Collation Support" RESULT: passed
+
+START TEST "Character Set and  Collation Capability" [CLASS: DUPX_Validation_test_db_supported_charset]
+LOG-TIME[DELTA:   0.00008]  MESSAGE:TEST "Character Set and  Collation Capability" RESULT: passed
+
+START TEST "Tables Case Sensitivity" [CLASS: DUPX_Validation_test_db_case_sensitive_tables]
+LOG-TIME[DELTA:   0.00032]  MESSAGE:TEST "Tables Case Sensitivity" RESULT: passed
+
+START TEST "Tables Flagged for Removal or Backup" [CLASS: DUPX_Validation_test_db_affected_tables]
+LOG-TIME[DELTA:   0.00027]  MESSAGE:TEST "Tables Flagged for Removal or Backup" RESULT: passed
+
+START TEST "Prefix too long" [CLASS: DUPX_Validation_test_db_prefix_too_long]
+LOG-TIME[DELTA:   0.00016]  MESSAGE:TEST "Prefix too long" RESULT: passed
+
+START TEST "Database cleanup" [CLASS: DUPX_Validation_test_db_cleanup]
+LOG-TIME[DELTA:   0.00001]  MESSAGE:TEST "Database cleanup" RESULT: skip
+
+
+CTRL PARAMS AFTER VALIDATION
+AJAX ACTION [validate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u382405500/domains/socards.com.br/public_html/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [proceed_confirm_dialog] START
+AJAX ACTION [proceed_confirm_dialog] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u382405500/domains/socards.com.br/public_html/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s1] START
+AJAX ACTION [sparam_s1] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u382405500/domains/socards.com.br/public_html/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [extract] START
+INITIALIZE FILTERS
+--------------------------------------
+PATHS MAPPING : "/home/u382405500/domains/socards.com.br/public_html"
+--------------------------------------
+********************************************************************************
+* DUPLICATOR LITE: Install-Log
+* STEP-1 START @ 04:13:41
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+INSTALL TYPE________: single site
+BLOG NAME___________: "Sua loja Smart"
+HOME URL NEW________: "https://batatoads.shop"
+SITE URL NEW________: "https://batatoads.shop/"
+CONTENT URL NEW_____: "https://batatoads.shop/wp-content"
+UPLOAD URL NEW______: "https://batatoads.shop/wp-content/uploads"
+PLUGINS URL NEW_____: "https://batatoads.shop/wp-content/plugins"
+MUPLUGINS URL NEW___: "https://batatoads.shop/wp-content/mu-plugins"
+HOME PATH NEW_______: "/home/u382405500/domains/socards.com.br/public_html"
+SITE PATH NEW_______: "/home/u382405500/domains/socards.com.br/public_html/"
+CONTENT PATH NEW____: "/home/u382405500/domains/socards.com.br/public_html/wp-content"
+UPLOAD PATH NEW_____: "/home/u382405500/domains/socards.com.br/public_html/wp-content/uploads"
+PLUGINS PATH NEW____: "/home/u382405500/domains/socards.com.br/public_html/wp-content/plugins"
+MUPLUGINS PATH NEW__: "/home/u382405500/domains/socards.com.br/public_html/wp-content/mu-plugins"
+ARCHIVE ACTION______: "donothing"
+SKIP WP FILES_______: "none"
+ARCHIVE ENGINE______: "ziparchivechunking"
+SET DIR PERMS_______: true
+DIR PERMS VALUE_____: 0755
+SET FILE PERMS______: true
+FILE PERMS VALUE____: 0644
+SAFE MODE___________: 0
+LOGGING_____________: 1
+ZIP THROTTLING______: false
+WP CONFIG___________: "modify"
+HTACCESS CONFIG_____: "new"
+OTHER CONFIG________: "new"
+FILE TIME___________: "current"
+********************************************************************************
+
+REMOVE FILTERS
+	DIR : "/home/u382405500/domains/socards.com.br/public_html/dup-installer"
+	DIR : "/home/u382405500/domains/socards.com.br/public_html/site-antes"
+	FILE: "/home/u382405500/domains/socards.com.br/public_html/20230616_sualojasmart_[HASH]_20230616171103_installer-backup.php"
+	FILE: "/home/u382405500/domains/socards.com.br/public_html/20230616_sualojasmart_[HASH]_20230616171103_archive.zip"
+	FILE: "/home/u382405500/domains/socards.com.br/public_html/installer.php"
+	FILE: "/home/u382405500/domains/socards.com.br/public_html/dup-installer-bootlog__42e03f9-16171103.txt"
+EXTRACTION FILTERS
+	DIR : "dup-installer"
+	FILE: "20230616_sualojasmart_[HASH]_20230616171103_installer-backup.php"
+--------------------------------------
+
+
+EXTRACTION: ZIP CHUNKING >>> START
+MAINTENANCE MODE ENABLE
+BEFORE EXTRACION ACTIONS
+
+*** RESET CONFIG FILES IN CURRENT HOSTING >>> START
+
+*** RESET CONFIG FILES IN CURRENT HOSTING >>> END
+MAINTENANCE MODE ENABLE
+
+*** CREATE FOLDER AND PERMISSION PREPARE
+FOLDER PREPARE DONE
+ARCHIVE OFFSET 0
+FILE EXTRACTION: done processing last file in list of 17619
+
+EXTRACTION: ZIP CHUNKING >>> DONE
+
+EXTRACTION COMPLETE @ 04:13:43 - RUNTIME: 2.7637 sec. - Files processed: 17,013 of 17,013
+AJAX ACTION [extract] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u382405500/domains/socards.com.br/public_html/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+LOG-TIME[/home/u382405500/domains/socards.com.br/public_html/dup-installer/ctrls/ctrl.base.php:227][DELTA:   0.01576]  MESSAGE:END RENDER PAGE
+LOG-TIME[/home/u382405500/domains/socards.com.br/public_html/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s2] START
+AJAX ACTION [sparam_s2] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u382405500/domains/socards.com.br/public_html/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [dbinstall] START
+ADD PREFIX META MAP ID 0 tmnet_
+
+
+
+********************************************************************************
+* DUPLICATOR LITE: INSTALL-LOG
+* STEP-2 START @ 04:15:37
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+DB ENGINE___________: "chunk"
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+USER MODE___________: "overwrite"
+TABLE PREFIX________: "tmnet_"
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8mb4"
+COLLATE_____________: ""
+CUNKING_____________: true
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+FUNCTIONS___________: true
+REMOVE DEFINER______: false
+SPLIT CREATES_______: true
+--------------------------------------
+TABLES
+--------------------------------------
+TABLE "tmnet_actionscheduler_actions"___________________[ROWS:      20] [EXTRACT|REPLACE] [INST NAME: tmnet_actionscheduler_actions]
+TABLE "tmnet_actionscheduler_claims"____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_actionscheduler_claims]
+TABLE "tmnet_actionscheduler_groups"____________________[ROWS:       6] [EXTRACT|REPLACE] [INST NAME: tmnet_actionscheduler_groups]
+TABLE "tmnet_actionscheduler_logs"______________________[ROWS:      59] [EXTRACT|REPLACE] [INST NAME: tmnet_actionscheduler_logs]
+TABLE "tmnet_aioseo_cache"______________________________[ROWS:       5] [EXTRACT|REPLACE] [INST NAME: tmnet_aioseo_cache]
+TABLE "tmnet_aioseo_notifications"______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_aioseo_notifications]
+TABLE "tmnet_aioseo_posts"______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_aioseo_posts]
+TABLE "tmnet_commentmeta"_______________________________[ROWS:       7] [EXTRACT|REPLACE] [INST NAME: tmnet_commentmeta]
+TABLE "tmnet_comments"__________________________________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: tmnet_comments]
+TABLE "tmnet_duplicator_packages"_______________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: tmnet_duplicator_packages]
+TABLE "tmnet_e_events"__________________________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: tmnet_e_events]
+TABLE "tmnet_e_notes"___________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_e_notes]
+TABLE "tmnet_e_notes_users_relations"___________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_e_notes_users_relations]
+TABLE "tmnet_e_submissions"_____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_e_submissions]
+TABLE "tmnet_e_submissions_actions_log"_________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_e_submissions_actions_log]
+TABLE "tmnet_e_submissions_values"______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_e_submissions_values]
+TABLE "tmnet_fc_campaigns"______________________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: tmnet_fc_campaigns]
+TABLE "tmnet_fc_campaign_emails"________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_fc_campaign_emails]
+TABLE "tmnet_fc_campaign_url_metrics"___________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_fc_campaign_url_metrics]
+TABLE "tmnet_fc_funnels"________________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: tmnet_fc_funnels]
+TABLE "tmnet_fc_funnel_metrics"_________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_fc_funnel_metrics]
+TABLE "tmnet_fc_funnel_sequences"_______________________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: tmnet_fc_funnel_sequences]
+TABLE "tmnet_fc_funnel_subscribers"_____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_fc_funnel_subscribers]
+TABLE "tmnet_fc_lists"__________________________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: tmnet_fc_lists]
+TABLE "tmnet_fc_meta"___________________________________[ROWS:       6] [EXTRACT|REPLACE] [INST NAME: tmnet_fc_meta]
+TABLE "tmnet_fc_subscribers"____________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: tmnet_fc_subscribers]
+TABLE "tmnet_fc_subscriber_meta"________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_fc_subscriber_meta]
+TABLE "tmnet_fc_subscriber_notes"_______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_fc_subscriber_notes]
+TABLE "tmnet_fc_subscriber_pivot"_______________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: tmnet_fc_subscriber_pivot]
+TABLE "tmnet_fc_tags"___________________________________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: tmnet_fc_tags]
+TABLE "tmnet_fc_url_stores"_____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_fc_url_stores]
+TABLE "tmnet_ff_scheduled_actions"______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_ff_scheduled_actions]
+TABLE "tmnet_fluentform_entry_details"__________________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: tmnet_fluentform_entry_details]
+TABLE "tmnet_fluentform_forms"__________________________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: tmnet_fluentform_forms]
+TABLE "tmnet_fluentform_form_analytics"_________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_fluentform_form_analytics]
+TABLE "tmnet_fluentform_form_meta"______________________[ROWS:      13] [EXTRACT|REPLACE] [INST NAME: tmnet_fluentform_form_meta]
+TABLE "tmnet_fluentform_logs"___________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: tmnet_fluentform_logs]
+TABLE "tmnet_fluentform_submissions"____________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: tmnet_fluentform_submissions]
+TABLE "tmnet_fluentform_submission_meta"________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: tmnet_fluentform_submission_meta]
+TABLE "tmnet_fsmpt_email_logs"__________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_fsmpt_email_logs]
+TABLE "tmnet_jet_post_types"____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_jet_post_types]
+TABLE "tmnet_jet_taxonomies"____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_jet_taxonomies]
+TABLE "tmnet_links"_____________________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_links]
+TABLE "tmnet_options"___________________________________[ROWS:     879] [EXTRACT|REPLACE] [INST NAME: tmnet_options]
+TABLE "tmnet_postmeta"__________________________________[ROWS:    2811] [EXTRACT|REPLACE] [INST NAME: tmnet_postmeta]
+TABLE "tmnet_posts"_____________________________________[ROWS:     393] [EXTRACT|REPLACE] [INST NAME: tmnet_posts]
+TABLE "tmnet_reviewx_criterias"_________________________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: tmnet_reviewx_criterias]
+TABLE "tmnet_reviewx_import_history"____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_reviewx_import_history]
+TABLE "tmnet_reviewx_process_jobs"______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_reviewx_process_jobs]
+TABLE "tmnet_reviewx_reminder_email"____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_reviewx_reminder_email]
+TABLE "tmnet_termmeta"__________________________________[ROWS:      21] [EXTRACT|REPLACE] [INST NAME: tmnet_termmeta]
+TABLE "tmnet_terms"_____________________________________[ROWS:      35] [EXTRACT|REPLACE] [INST NAME: tmnet_terms]
+TABLE "tmnet_term_relationships"________________________[ROWS:     209] [EXTRACT|REPLACE] [INST NAME: tmnet_term_relationships]
+TABLE "tmnet_term_taxonomy"_____________________________[ROWS:      35] [EXTRACT|REPLACE] [INST NAME: tmnet_term_taxonomy]
+TABLE "tmnet_usermeta"__________________________________[ROWS:      61] [EXTRACT|REPLACE] [INST NAME: tmnet_usermeta]
+TABLE "tmnet_users"_____________________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: tmnet_users]
+TABLE "tmnet_wc_admin_notes"____________________________[ROWS:      86] [EXTRACT|REPLACE] [INST NAME: tmnet_wc_admin_notes]
+TABLE "tmnet_wc_admin_note_actions"_____________________[ROWS:     113] [EXTRACT|REPLACE] [INST NAME: tmnet_wc_admin_note_actions]
+TABLE "tmnet_wc_category_lookup"________________________[ROWS:       4] [EXTRACT|REPLACE] [INST NAME: tmnet_wc_category_lookup]
+TABLE "tmnet_wc_customer_lookup"________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_wc_customer_lookup]
+TABLE "tmnet_wc_download_log"___________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_wc_download_log]
+TABLE "tmnet_wc_order_coupon_lookup"____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_wc_order_coupon_lookup]
+TABLE "tmnet_wc_order_product_lookup"___________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: tmnet_wc_order_product_lookup]
+TABLE "tmnet_wc_order_stats"____________________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: tmnet_wc_order_stats]
+TABLE "tmnet_wc_order_tax_lookup"_______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_wc_order_tax_lookup]
+TABLE "tmnet_wc_product_attributes_lookup"______________[ROWS:      84] [EXTRACT|REPLACE] [INST NAME: tmnet_wc_product_attributes_lookup]
+TABLE "tmnet_wc_product_download_directories"___________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: tmnet_wc_product_download_directories]
+TABLE "tmnet_wc_product_meta_lookup"____________________[ROWS:      30] [EXTRACT|REPLACE] [INST NAME: tmnet_wc_product_meta_lookup]
+TABLE "tmnet_wc_rate_limits"____________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_wc_rate_limits]
+TABLE "tmnet_wc_reserved_stock"_________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_wc_reserved_stock]
+TABLE "tmnet_wc_tax_rate_classes"_______________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: tmnet_wc_tax_rate_classes]
+TABLE "tmnet_wc_webhooks"_______________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_wc_webhooks]
+TABLE "tmnet_woocommerce_api_keys"______________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_woocommerce_api_keys]
+TABLE "tmnet_woocommerce_attribute_taxonomies"__________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: tmnet_woocommerce_attribute_taxonomies]
+TABLE "tmnet_woocommerce_downloadable_product_permissions"[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_woocommerce_downloadable_product_permissions]
+TABLE "tmnet_woocommerce_log"___________________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_woocommerce_log]
+TABLE "tmnet_woocommerce_order_itemmeta"________________[ROWS:      15] [EXTRACT|REPLACE] [INST NAME: tmnet_woocommerce_order_itemmeta]
+TABLE "tmnet_woocommerce_order_items"___________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: tmnet_woocommerce_order_items]
+TABLE "tmnet_woocommerce_payment_tokenmeta"_____________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_woocommerce_payment_tokenmeta]
+TABLE "tmnet_woocommerce_payment_tokens"________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_woocommerce_payment_tokens]
+TABLE "tmnet_woocommerce_sessions"______________________[ROWS:       1] [EXTRACT|REPLACE] [INST NAME: tmnet_woocommerce_sessions]
+TABLE "tmnet_woocommerce_shipping_zones"________________[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: tmnet_woocommerce_shipping_zones]
+TABLE "tmnet_woocommerce_shipping_zone_locations"_______[ROWS:       2] [EXTRACT|REPLACE] [INST NAME: tmnet_woocommerce_shipping_zone_locations]
+TABLE "tmnet_woocommerce_shipping_zone_methods"_________[ROWS:       4] [EXTRACT|REPLACE] [INST NAME: tmnet_woocommerce_shipping_zone_methods]
+TABLE "tmnet_woocommerce_tax_rates"_____________________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_woocommerce_tax_rates]
+TABLE "tmnet_woocommerce_tax_rate_locations"____________[ROWS:       0] [EXTRACT|REPLACE] [INST NAME: tmnet_woocommerce_tax_rate_locations]
+TABLE "tmnet_wpforms_tasks_meta"________________________[ROWS:       3] [EXTRACT|REPLACE] [INST NAME: tmnet_wpforms_tasks_meta]
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.6.15 -- Build Server: 10.5.18
+FILE SIZE:	dup-database__[HASH].sql (7.82MB)
+TIMEOUT:	5000
+MAXPACK:	1073741824
+SQLMODE-GLOBAL:	NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+DROP ALL TABLES
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+QUERY FIXES
+GLOBAL RULES ADDED: PROC AND VIEWS
+
+QUERY FIXES GLOBAL RULES
+	SEARCH  => /^(\s*(?:\/\*!\d+\s)?\s*(?:CREATE.+)?DEFINER\s*=)([^\*\s]+)(.*)$/m
+	REPLACE => $1`u382405500_shop`@`localhost`$3
+
+	SEARCH  => /^(\s*CREATE.+(?:PROCEDURE|FUNCTION)[\s\S]*)(BEGIN)([\s\S]*)$/
+	REPLACE => $1SQL SECURITY INVOKER
+$2$3
+
+--------------------------------------
+** DATABASE CHUNK install start
+--------------------------------------
+DATABASE CHUNK SEEK POSITION: 0
+Auto Commit set to false successfully
+NO TABLE TO SKIP
+DATABASE CHUNK: CREATION TABLE MARKER FOUND
+Auto Commit set to true successfully
+--------------------------------------
+** DATABASE CHUNK install end
+--------------------------------------
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	5038
+
+TABLES ROWS IN DATABASE AFTER EXTRACTION
+
+TABLE "tmnet_actionscheduler_actions"___________________[ROWS:    20]
+TABLE "tmnet_actionscheduler_claims"____________________[ROWS:     0]
+TABLE "tmnet_actionscheduler_groups"____________________[ROWS:     6]
+TABLE "tmnet_actionscheduler_logs"______________________[ROWS:    59]
+TABLE "tmnet_aioseo_cache"______________________________[ROWS:     5]
+TABLE "tmnet_aioseo_notifications"______________________[ROWS:     0]
+TABLE "tmnet_aioseo_posts"______________________________[ROWS:     0]
+TABLE "tmnet_commentmeta"_______________________________[ROWS:     7]
+TABLE "tmnet_comments"__________________________________[ROWS:     3]
+TABLE "tmnet_duplicator_packages"_______________________[ROWS:     1]
+TABLE "tmnet_e_events"__________________________________[ROWS:     2]
+TABLE "tmnet_e_notes"___________________________________[ROWS:     0]
+TABLE "tmnet_e_notes_users_relations"___________________[ROWS:     0]
+TABLE "tmnet_e_submissions"_____________________________[ROWS:     0]
+TABLE "tmnet_e_submissions_actions_log"_________________[ROWS:     0]
+TABLE "tmnet_e_submissions_values"______________________[ROWS:     0]
+TABLE "tmnet_fc_campaign_emails"________________________[ROWS:     0]
+TABLE "tmnet_fc_campaign_url_metrics"___________________[ROWS:     0]
+TABLE "tmnet_fc_campaigns"______________________________[ROWS:     2]
+TABLE "tmnet_fc_funnel_metrics"_________________________[ROWS:     0]
+TABLE "tmnet_fc_funnel_sequences"_______________________[ROWS:     3]
+TABLE "tmnet_fc_funnel_subscribers"_____________________[ROWS:     0]
+TABLE "tmnet_fc_funnels"________________________________[ROWS:     1]
+TABLE "tmnet_fc_lists"__________________________________[ROWS:     2]
+TABLE "tmnet_fc_meta"___________________________________[ROWS:     6]
+TABLE "tmnet_fc_subscriber_meta"________________________[ROWS:     0]
+TABLE "tmnet_fc_subscriber_notes"_______________________[ROWS:     0]
+TABLE "tmnet_fc_subscriber_pivot"_______________________[ROWS:     2]
+TABLE "tmnet_fc_subscribers"____________________________[ROWS:     1]
+TABLE "tmnet_fc_tags"___________________________________[ROWS:     3]
+TABLE "tmnet_fc_url_stores"_____________________________[ROWS:     0]
+TABLE "tmnet_ff_scheduled_actions"______________________[ROWS:     0]
+TABLE "tmnet_fluentform_entry_details"__________________[ROWS:     3]
+TABLE "tmnet_fluentform_form_analytics"_________________[ROWS:     0]
+TABLE "tmnet_fluentform_form_meta"______________________[ROWS:    13]
+TABLE "tmnet_fluentform_forms"__________________________[ROWS:     3]
+TABLE "tmnet_fluentform_logs"___________________________[ROWS:     1]
+TABLE "tmnet_fluentform_submission_meta"________________[ROWS:     2]
+TABLE "tmnet_fluentform_submissions"____________________[ROWS:     1]
+TABLE "tmnet_fsmpt_email_logs"__________________________[ROWS:     0]
+TABLE "tmnet_jet_post_types"____________________________[ROWS:     0]
+TABLE "tmnet_jet_taxonomies"____________________________[ROWS:     0]
+TABLE "tmnet_links"_____________________________________[ROWS:     0]
+TABLE "tmnet_options"___________________________________[ROWS:   879]
+TABLE "tmnet_postmeta"__________________________________[ROWS:  2811]
+TABLE "tmnet_posts"_____________________________________[ROWS:   393]
+TABLE "tmnet_reviewx_criterias"_________________________[ROWS:     3]
+TABLE "tmnet_reviewx_import_history"____________________[ROWS:     0]
+TABLE "tmnet_reviewx_process_jobs"______________________[ROWS:     0]
+TABLE "tmnet_reviewx_reminder_email"____________________[ROWS:     0]
+TABLE "tmnet_term_relationships"________________________[ROWS:   209]
+TABLE "tmnet_term_taxonomy"_____________________________[ROWS:    35]
+TABLE "tmnet_termmeta"__________________________________[ROWS:    21]
+TABLE "tmnet_terms"_____________________________________[ROWS:    35]
+TABLE "tmnet_usermeta"__________________________________[ROWS:    61]
+TABLE "tmnet_users"_____________________________________[ROWS:     1]
+TABLE "tmnet_wc_admin_note_actions"_____________________[ROWS:   113]
+TABLE "tmnet_wc_admin_notes"____________________________[ROWS:    86]
+TABLE "tmnet_wc_category_lookup"________________________[ROWS:     4]
+TABLE "tmnet_wc_customer_lookup"________________________[ROWS:     0]
+TABLE "tmnet_wc_download_log"___________________________[ROWS:     0]
+TABLE "tmnet_wc_order_coupon_lookup"____________________[ROWS:     0]
+TABLE "tmnet_wc_order_product_lookup"___________________[ROWS:     1]
+TABLE "tmnet_wc_order_stats"____________________________[ROWS:     1]
+TABLE "tmnet_wc_order_tax_lookup"_______________________[ROWS:     0]
+TABLE "tmnet_wc_product_attributes_lookup"______________[ROWS:    84]
+TABLE "tmnet_wc_product_download_directories"___________[ROWS:     2]
+TABLE "tmnet_wc_product_meta_lookup"____________________[ROWS:    30]
+TABLE "tmnet_wc_rate_limits"____________________________[ROWS:     0]
+TABLE "tmnet_wc_reserved_stock"_________________________[ROWS:     0]
+TABLE "tmnet_wc_tax_rate_classes"_______________________[ROWS:     2]
+TABLE "tmnet_wc_webhooks"_______________________________[ROWS:     0]
+TABLE "tmnet_woocommerce_api_keys"______________________[ROWS:     0]
+TABLE "tmnet_woocommerce_attribute_taxonomies"__________[ROWS:     2]
+TABLE "tmnet_woocommerce_downloadable_product_permissions"[ROWS:     0]
+TABLE "tmnet_woocommerce_log"___________________________[ROWS:     0]
+TABLE "tmnet_woocommerce_order_itemmeta"________________[ROWS:    15]
+TABLE "tmnet_woocommerce_order_items"___________________[ROWS:     2]
+TABLE "tmnet_woocommerce_payment_tokenmeta"_____________[ROWS:     0]
+TABLE "tmnet_woocommerce_payment_tokens"________________[ROWS:     0]
+TABLE "tmnet_woocommerce_sessions"______________________[ROWS:     1]
+TABLE "tmnet_woocommerce_shipping_zone_locations"_______[ROWS:     2]
+TABLE "tmnet_woocommerce_shipping_zone_methods"_________[ROWS:     4]
+TABLE "tmnet_woocommerce_shipping_zones"________________[ROWS:     2]
+TABLE "tmnet_woocommerce_tax_rate_locations"____________[ROWS:     0]
+TABLE "tmnet_woocommerce_tax_rates"_____________________[ROWS:     0]
+TABLE "tmnet_wpforms_tasks_meta"________________________[ROWS:     3]
+
+INSERT DATA RUNTIME: 2.0121 sec.
+STEP-2 COMPLETE @ 04:15:39 - RUNTIME: 2.0121 sec.
+AJAX ACTION [dbinstall] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u382405500/domains/socards.com.br/public_html/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+
+====================================
+NEXT STEP NOTICES
+====================================
+-----------------------
+[NOTICE] Plugin WPS Hide Login disabled by default
+	SECTIONS: plugins
+	LONG MSG: This plugin is deactivated by default automatically due to issues that one may encounter when migrating. You must reactivate from the WordPress admin panel after completing the installation or from the plugins tab. Your site's frontend will render properly after reactivating the plugin.
+
+====================================
+LOG-TIME[/home/u382405500/domains/socards.com.br/public_html/dup-installer/ctrls/ctrl.base.php:227][DELTA:   0.01344]  MESSAGE:END RENDER PAGE
+LOG-TIME[/home/u382405500/domains/socards.com.br/public_html/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [sparam_s3] START
+AJAX ACTION [sparam_s3] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u382405500/domains/socards.com.br/public_html/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [webupdate] START
+
+====================================
+SET SEARCH AND REPLACE LIST INSTALL TYPE single site
+====================================
+SEARCH ITEM[T:path |P:12] SEARCH: /home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br REPLACE: /home/u382405500/domains/socards.com.br/public_html/ [SCOPE: ALL]
+SEARCH ITEM[T:path |P:12] SEARCH: /home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br REPLACE: /home/u382405500/domains/socards.com.br/public_html [SCOPE: ALL]
+SEARCH ITEM[T:urlnd|P:12] SEARCH: https://shop1.tmnetinfo.com.br REPLACE: https://batatoads.shop/ [SCOPE: ALL]
+SEARCH ITEM[T:urlnd|P:12] SEARCH: https://shop1.tmnetinfo.com.br REPLACE: https://batatoads.shop [SCOPE: ALL]
+CHUNK LOAD DATA: IS NULL 
+CHUNK ACTION: CURRENT [start][][]
+
+
+********************************************************************************
+DUPLICATOR LITE: INSTALL-LOG
+STEP-3 START @ 04:16:06
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8mb4"
+CHARSET CLIENT:	"utf8mb4"
+********************************************************************************
+OPTIONS:
+SKIP PATH REPLACE_____: false
+DISALLOW_FILE_EDIT____: [value = ], [inWpConfig = ]
+DISALLOW_FILE_MODS____: [value = ], [inWpConfig = ]
+AUTOSAVE_INTERVAL_____: [value = 60], [inWpConfig = ]
+WP_POST_REVISIONS_____: [value = 1], [inWpConfig = ]
+FORCE_SSL_ADMIN_______: [value = ], [inWpConfig = ]
+WP_AUTO_UPDATE_CORE___: [value = false], [inWpConfig = ]
+WP_CACHE______________: [value = ], [inWpConfig = ]
+WPCACHEHOME___________: [value = /], [inWpConfig = ]
+WP_DEBUG______________: [value = ], [inWpConfig = 1]
+WP_DEBUG_LOG__________: [value = ], [inWpConfig = ]
+WP_DEBUG_DISPLAY______: [value = 1], [inWpConfig = ]
+WP_DISABLE_FATAL_ERROR_HANDLER: [value = ], [inWpConfig = ]
+SCRIPT_DEBUG__________: [value = ], [inWpConfig = ]
+CONCATENATE_SCRIPTS___: [value = ], [inWpConfig = ]
+SAVEQUERIES___________: [value = ], [inWpConfig = ]
+ALTERNATE_WP_CRON_____: [value = ], [inWpConfig = ]
+DISABLE_WP_CRON_______: [value = ], [inWpConfig = ]
+WP_CRON_LOCK_TIMEOUT__: [value = 60], [inWpConfig = ]
+COOKIE_DOMAIN_________: [value = ], [inWpConfig = ]
+WP_MEMORY_LIMIT_______: [value = 40M], [inWpConfig = ]
+WP_MAX_MEMORY_LIMIT___: [value = 2G], [inWpConfig = ]
+WP_TEMP_DIR___________: [value = ], [inWpConfig = ]
+********************************************************************************
+
+********************************************************************************
+CHUNK PARAMS:
+maxIteration__________: 0
+timeOut_______________: 5000
+throttling____________: 2
+rowsPerPage___________: 1000
+********************************************************************************
+
+CHUNK ACTION: CURRENT [cleanup_trans][][]
+CLEAN OPTIONS [tmnet_options]
+	`option_name` LIKE "\_transient%"
+	`option_name` LIKE "\_site\_transient%"
+	`option_name` IN ("duplicator_ui_view_state","duplicator_package_active","duplicator_settings","duplicator_is_pro_enable_notice_dismissed")
+DATABASE OPTIONS DELETED [ROWS:    89]
+CHUNK ACTION: CURRENT [cleanup_extra][][]
+CLEANUP EXTRA
+	- SKIP DROP VIEWS
+	- SKIP DROP PROCS
+	- SKIP DROP FUNCS
+CHUNK ACTION: CURRENT [cleanup_packages][][]
+EMPTY PACKAGES TABLE
+CLEAN PACKAGES
+DATABASE PACKAGE DELETED [ROWS:     1]
+CHUNK ACTION: CURRENT [init][][]
+
+EVALUATE TABLE: "tmnet_actionscheduler_actions"___________________[ROWS:    20][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_actionscheduler_actions][0]
+
+EVALUATE TABLE: "tmnet_actionscheduler_claims"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_actionscheduler_groups"____________________[ROWS:     6][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_actionscheduler_groups][0]
+
+EVALUATE TABLE: "tmnet_actionscheduler_logs"______________________[ROWS:    59][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_actionscheduler_logs][0]
+
+EVALUATE TABLE: "tmnet_aioseo_cache"______________________________[ROWS:     5][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_aioseo_cache][0]
+
+EVALUATE TABLE: "tmnet_aioseo_notifications"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_aioseo_posts"______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_commentmeta"_______________________________[ROWS:     7][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_commentmeta][0]
+
+EVALUATE TABLE: "tmnet_comments"__________________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_comments][0]
+
+EVALUATE TABLE: "tmnet_duplicator_packages"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_e_events"__________________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_e_events][0]
+
+EVALUATE TABLE: "tmnet_e_notes"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_e_notes_users_relations"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_e_submissions"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_e_submissions_actions_log"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_e_submissions_values"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_fc_campaigns"______________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_fc_campaigns][0]
+
+EVALUATE TABLE: "tmnet_fc_campaign_emails"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_fc_campaign_url_metrics"___________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_fc_funnels"________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_fc_funnels][0]
+
+EVALUATE TABLE: "tmnet_fc_funnel_metrics"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_fc_funnel_sequences"_______________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_fc_funnel_sequences][0]
+
+EVALUATE TABLE: "tmnet_fc_funnel_subscribers"_____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_fc_lists"__________________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_fc_lists][0]
+
+EVALUATE TABLE: "tmnet_fc_meta"___________________________________[ROWS:     6][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_fc_meta][0]
+
+EVALUATE TABLE: "tmnet_fc_subscribers"____________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_fc_subscribers][0]
+
+EVALUATE TABLE: "tmnet_fc_subscriber_meta"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_fc_subscriber_notes"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_fc_subscriber_pivot"_______________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_fc_subscriber_pivot][0]
+
+EVALUATE TABLE: "tmnet_fc_tags"___________________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_fc_tags][0]
+
+EVALUATE TABLE: "tmnet_fc_url_stores"_____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_ff_scheduled_actions"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_fluentform_entry_details"__________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_fluentform_entry_details][0]
+
+EVALUATE TABLE: "tmnet_fluentform_forms"__________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_fluentform_forms][0]
+
+EVALUATE TABLE: "tmnet_fluentform_form_analytics"_________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_fluentform_form_meta"______________________[ROWS:    13][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_fluentform_form_meta][0]
+
+EVALUATE TABLE: "tmnet_fluentform_logs"___________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_fluentform_logs][0]
+
+EVALUATE TABLE: "tmnet_fluentform_submissions"____________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_fluentform_submissions][0]
+
+EVALUATE TABLE: "tmnet_fluentform_submission_meta"________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_fluentform_submission_meta][0]
+
+EVALUATE TABLE: "tmnet_fsmpt_email_logs"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_jet_post_types"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_jet_taxonomies"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_links"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_options"___________________________________[ROWS:   790][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_options][0]
+
+EVALUATE TABLE: "tmnet_postmeta"__________________________________[ROWS:  2811][PG:   3][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_postmeta][0]
+	CHUNK ACTION: CURRENT [search_replace][tmnet_postmeta][1]
+	CHUNK ACTION: CURRENT [search_replace][tmnet_postmeta][2]
+
+EVALUATE TABLE: "tmnet_posts"_____________________________________[ROWS:   393][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_posts][0]
+
+EVALUATE TABLE: "tmnet_reviewx_criterias"_________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_reviewx_criterias][0]
+
+EVALUATE TABLE: "tmnet_reviewx_import_history"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_reviewx_process_jobs"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_reviewx_reminder_email"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_termmeta"__________________________________[ROWS:    21][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_termmeta][0]
+
+EVALUATE TABLE: "tmnet_terms"_____________________________________[ROWS:    35][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_terms][0]
+
+EVALUATE TABLE: "tmnet_term_relationships"________________________[ROWS:   209][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_term_taxonomy"_____________________________[ROWS:    35][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_term_taxonomy][0]
+
+EVALUATE TABLE: "tmnet_usermeta"__________________________________[ROWS:    61][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_usermeta][0]
+
+EVALUATE TABLE: "tmnet_users"_____________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_users][0]
+
+EVALUATE TABLE: "tmnet_wc_admin_notes"____________________________[ROWS:    86][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_wc_admin_notes][0]
+
+EVALUATE TABLE: "tmnet_wc_admin_note_actions"_____________________[ROWS:   113][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_wc_admin_note_actions][0]
+
+EVALUATE TABLE: "tmnet_wc_category_lookup"________________________[ROWS:     4][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_wc_customer_lookup"________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_wc_download_log"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_wc_order_coupon_lookup"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_wc_order_product_lookup"___________________[ROWS:     1][PG:   1][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_wc_order_stats"____________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_wc_order_stats][0]
+
+EVALUATE TABLE: "tmnet_wc_order_tax_lookup"_______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_wc_product_attributes_lookup"______________[ROWS:    84][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_wc_product_attributes_lookup][0]
+
+EVALUATE TABLE: "tmnet_wc_product_download_directories"___________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_wc_product_download_directories][0]
+
+EVALUATE TABLE: "tmnet_wc_product_meta_lookup"____________________[ROWS:    30][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_wc_product_meta_lookup][0]
+
+EVALUATE TABLE: "tmnet_wc_rate_limits"____________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_wc_reserved_stock"_________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_wc_tax_rate_classes"_______________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_wc_tax_rate_classes][0]
+
+EVALUATE TABLE: "tmnet_wc_webhooks"_______________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_woocommerce_api_keys"______________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_woocommerce_attribute_taxonomies"__________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_woocommerce_attribute_taxonomies][0]
+
+EVALUATE TABLE: "tmnet_woocommerce_downloadable_product_permissions"[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_woocommerce_log"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_woocommerce_order_itemmeta"________________[ROWS:    15][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_woocommerce_order_itemmeta][0]
+
+EVALUATE TABLE: "tmnet_woocommerce_order_items"___________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_woocommerce_order_items][0]
+
+EVALUATE TABLE: "tmnet_woocommerce_payment_tokenmeta"_____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_woocommerce_payment_tokens"________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_woocommerce_sessions"______________________[ROWS:     1][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_woocommerce_sessions][0]
+
+EVALUATE TABLE: "tmnet_woocommerce_shipping_zones"________________[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_woocommerce_shipping_zones][0]
+
+EVALUATE TABLE: "tmnet_woocommerce_shipping_zone_locations"_______[ROWS:     2][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_woocommerce_shipping_zone_locations][0]
+
+EVALUATE TABLE: "tmnet_woocommerce_shipping_zone_methods"_________[ROWS:     4][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_woocommerce_shipping_zone_methods][0]
+
+EVALUATE TABLE: "tmnet_woocommerce_tax_rates"_____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_woocommerce_tax_rate_locations"____________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "tmnet_wpforms_tasks_meta"________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	--- BASE STRINGS ---
+	SEARCH[path ]  1:"/home/tmnethos/public_html/tmnetinfo.com.br/shop1.tmnetinfo.com.br" => "/home/u382405500/domains/socards.com.br/public_html"
+	SEARCH[urlnd]  2:"https://shop1.tmnetinfo.com.br" ==================> "https://batatoads.shop"
+	CHUNK ACTION: CURRENT [search_replace][tmnet_wpforms_tasks_meta][0]
+--------------------------------------
+SCANNED:	Tables:87 	|	 Rows:4644 	|	 Cells:28765 
+UPDATED:	Tables:6 	|	 Rows:560 	|	 Cells:725 
+ERRORS:		0 
+RUNTIME:	0.423800 sec
+CHUNK ACTION: CURRENT [rem_maintenance][][]
+
+====================================
+REMOVE MAINTENANCE MODE
+====================================
+MAINTENANCE MODE DISABLE
+CHUNK ACTION: CURRENT [config_update][][]
+SET CONFIG FILES
+Retained original entry wpconfig target:/home/u382405500/domains/socards.com.br/public_html/wp-config.php
+New htaccess file created:/home/u382405500/domains/socards.com.br/public_html/.htaccess
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE ABSPATH "dirname(__FILE__) . '/'"
+	UPDATE WP_SITEURL "https://batatoads.shop/"
+	UPDATE DB_NAME ""u382405500_shop""
+	UPDATE DB_USER "** OBSCURED **"
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	UPDATE DB_CHARSET "utf8mb4"
+	UPDATE DB_COLLATE ""
+	WP CONFIG UPDATE WP_DEBUG "false"
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE
+====================================
+
+WEB SERVER CONFIGURATION FILE UPDATED:
+- Preparing .htaccess file with basic setup.
+HTACCESS FILE - Successfully updated the .htaccess file setting.
+
+====================================
+INDEX.PHP UPDATE
+====================================
+INDEX.PHP updated with new blog header "dirname(__FILE__) . '/wp-blog-header.php'"
+
+CHUNK ACTION: CURRENT [gen_update][][]
+
+====================================
+GENERAL UPDATES
+====================================
+
+====================================
+MANAGE PLUGINS
+====================================
+CHUNK ACTION: CURRENT [gen_clean][][]
+
+====================================
+GENERAL CLEANUP
+====================================
+RESET ALL USERS SESSION TOKENS
+MIGRATION INFO SET
+CHUNK ACTION: CURRENT [create_admin][][]
+
+====================================
+RESET USERS PASSWORD
+====================================
+
+====================================
+CREATE NEW ADMIN USER
+====================================
+
+NEW WP-ADMIN USER:
+- New username 'sacsocards@gmail.com' was created successfully allong with MU usermeta.
+CHUNK ACTION: CURRENT [notice_test][][]
+
+====================================
+CHECK FOR INDEX.HTML
+====================================
+NO INDEX.HTML WAS FOUND
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+CHUNK ACTION: CURRENT [cleanup_tmp_files][][]
+
+====================================
+CLEANUP TMP FILES
+====================================
+CHUNK ACTION: CURRENT [set_files_perms][][]
+
+====================================
+SET PARAMS PERMISSION
+====================================
+
+*** SET FOLDER PERMISSION AFTER EXTRACTION
+--------------------------------------
+PATHS MAPPING : "/home/u382405500/domains/socards.com.br/public_html"
+--------------------------------------
+SET FOLDER PERMISSION DONE
+CHUNK ACTION: CURRENT [final_report][][]
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 04:16:07 - RUNTIME: 0.4979 sec. 
+
+
+AJAX ACTION [webupdate] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u382405500/domains/socards.com.br/public_html/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [finalpre] START
+AJAX ACTION [finalpre] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u382405500/domains/socards.com.br/public_html/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+
+-------------------------
+AJAX ACTION [finalafter] START
+AJAX ACTION [finalafter] SUCCESS
+-------------------------
+
+LOG-TIME[/home/u382405500/domains/socards.com.br/public_html/dup-installer/src/Core/Bootstrap.php:71] RESET TIME
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[NOTICE] WPS Hide Login has been deactivated
+	SECTIONS: plugins
+
+-----------------------
+[NOTICE] Activate WPS Hide Login after you login.
+	SECTIONS: plugins
+
+====================================
+LOG-TIME[/home/u382405500/domains/socards.com.br/public_html/dup-installer/ctrls/ctrl.base.php:227][DELTA:   0.01069]  MESSAGE:END RENDER PAGE
