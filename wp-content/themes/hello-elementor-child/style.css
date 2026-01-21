@@ -1,0 +1,71 @@
+/*
+ Theme Name:   Hello Elementor Child
+ Theme URI:    https://isnnutrition.com.br/
+ Description:  Tema filho para Hello Elementor com design inspirado na ISN Nutrition.
+ Author:       Antigravity
+ Author URI:   #
+ Template:     hello-elementor
+ Version:      1.0.0
+ Text Domain:  hello-elementor-child
+*/
+
+:root {
+    --isn-primary: #A3D30E; /* Verde Neon */
+    --isn-secondary: #161616; /* Preto/Grafite */
+    --isn-footer-bg: #2C2C2C; /* Cinza Escuro Footer */
+    --isn-text-white: #FFFFFF;
+    --isn-text-gray: #515151;
+    --isn-font-family: 'Quantico', sans-serif;
+}
+
+/* Tipografia */
+body, h1, h2, h3, h4, h5, h6, .elementor-heading-title {
+    font-family: var(--isn-font-family) !important;
+}
+
+/* Cabeçalho */
+.site-header {
+    background-color: var(--isn-secondary) !important;
+}
+
+/* Botões */
+.elementor-button, 
+button, 
+input[type="submit"], 
+.button {
+    background-color: var(--isn-primary) !important;
+    color: #000 !important;
+    border-radius: 40px !important;
+    font-family: var(--isn-font-family) !important;
+    font-weight: 700 !important;
+    text-transform: uppercase !important;
+    transition: transform 0.2s ease, box-shadow 0.2s ease !important;
+}
+
+.elementor-button:hover, 
+button:hover, 
+input[type="submit"]:hover, 
+.button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(163, 211, 14, 0.3);
+}
+
+/* Barra de Pesquisa (Elementor/Geral) */
+.elementor-search-form__input {
+    border-radius: 40px 0 0 40px !important;
+}
+
+.elementor-search-form__submit {
+    background-color: var(--isn-primary) !important;
+    border-radius: 0 40px 40px 0 !important;
+}
+
+/* Footer */
+footer, .site-footer {
+    background-color: var(--isn-footer-bg) !important;
+    color: var(--isn-text-white) !important;
+}
+
+footer a, .site-footer a {
+    color: var(--isn-text-white) !important;
+}
