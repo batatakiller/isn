@@ -10,62 +10,101 @@
 */
 
 :root {
-    --isn-primary: #A3D30E; /* Verde Neon */
-    --isn-secondary: #161616; /* Preto/Grafite */
-    --isn-footer-bg: #2C2C2C; /* Cinza Escuro Footer */
+    --isn-primary: #A3D30E;
+    /* Verde Neon */
+    --isn-secondary: #161616;
+    /* Preto/Grafite */
+    --isn-footer-bg: #2C2C2C;
+    /* Cinza Escuro Footer */
     --isn-text-white: #FFFFFF;
     --isn-text-gray: #515151;
     --isn-font-family: 'Quantico', sans-serif;
 }
 
 /* Tipografia */
-body, h1, h2, h3, h4, h5, h6, .elementor-heading-title {
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.elementor-heading-title {
     font-family: var(--isn-font-family) !important;
 }
 
-/* Cabeçalho */
+/* Cabeçalho e Navegação (Baseado no Screenshot) */
 .site-header {
-    background-color: var(--isn-secondary) !important;
+    background-color: #121212 !important;
+    /* Fundo bem escuro */
+    border-bottom: 4px solid var(--isn-primary) !important;
+    /* Barra neon inferior */
 }
 
-/* Botões */
-.elementor-button, 
-button, 
-input[type="submit"], 
-.button {
+/* Menu de Navegação */
+.main-navigation ul.menu li a,
+.elementor-nav-menu li a {
+    color: var(--isn-text-white) !important;
+    font-family: var(--isn-font-family) !important;
+    text-transform: uppercase !important;
+    font-weight: 700 !important;
+    font-size: 13px !important;
+    letter-spacing: 0.5px !important;
+    padding: 10px 15px !important;
+}
+
+.main-navigation ul.menu li a:hover,
+.elementor-nav-menu li a:hover {
+    color: var(--isn-primary) !important;
+}
+
+/* Barra de Busca (Estilo Pílula no Header) */
+.header-search-container {
+    background: #FFFFFF !important;
+    border-radius: 50px !important;
+    padding: 5px 20px !important;
+    display: flex !important;
+    align-items: center !important;
+    max-width: 600px !important;
+    margin: 0 auto !important;
+}
+
+.header-search-container input {
+    border: none !important;
+    width: 100% !important;
+    font-family: var(--isn-font-family) !important;
+    font-size: 14px !important;
+}
+
+.header-search-container .search-submit {
+    background-color: var(--isn-primary) !important;
+    border-radius: 50% !important;
+    width: 35px !important;
+    height: 35px !important;
+    padding: 0 !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+/* Links de Usuário (Minha Conta / Carrinho) */
+.header-user-links a {
+    color: var(--isn-text-white) !important;
+    font-family: var(--isn-font-family) !important;
+    font-size: 12px !important;
+    text-decoration: none !important;
+}
+
+.header-user-links strong {
+    display: block !important;
+    font-size: 14px !important;
+}
+
+/* Ícone de Carrinho Neon */
+.cart-contents .count {
     background-color: var(--isn-primary) !important;
     color: #000 !important;
-    border-radius: 40px !important;
-    font-family: var(--isn-font-family) !important;
-    font-weight: 700 !important;
-    text-transform: uppercase !important;
-    transition: transform 0.2s ease, box-shadow 0.2s ease !important;
-}
-
-.elementor-button:hover, 
-button:hover, 
-input[type="submit"]:hover, 
-.button:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(163, 211, 14, 0.3);
-}
-
-/* Barra de Pesquisa (Elementor/Geral) */
-.elementor-search-form__input {
-    border-radius: 40px 0 0 40px !important;
-}
-
-.elementor-search-form__submit {
-    background-color: var(--isn-primary) !important;
-    border-radius: 0 40px 40px 0 !important;
-}
-
-/* Footer */
-footer, .site-footer {
-    background-color: var(--isn-footer-bg) !important;
-    color: var(--isn-text-white) !important;
-}
-
-footer a, .site-footer a {
-    color: var(--isn-text-white) !important;
+    border-radius: 50% !important;
+    padding: 2px 6px !important;
+    font-size: 10px !important;
 }
