@@ -56,49 +56,53 @@ h6,
     font-size: 14px !important;
 }
 
-/* 2. Header Containers */
-header.site-header,
-header#site-header,
-.elementor-location-header,
-.elementor-section.elementor-top-section.header-is-sticky,
-[data-elementor-type="header"] {
-    background-color: #121212 !important;
-    border-bottom: 6px solid var(--isn-primary) !important;
+/* Cabeçalho e Navegação (Estilo ISN Nutrition - NUCLEAR OVERRIDE) */
+
+/* 1. Header Containers */
+body header.site-header,
+body header#site-header,
+body .elementor-location-header,
+body .elementor-section.elementor-top-section.header-is-sticky,
+body [data-elementor-type="header"] {
+    background-color: #161616 !important;
+    border-bottom: 6px solid #a4ec04 !important;
 }
 
-/* 3. Menu Links (Geral + Elementor) */
-.main-navigation ul.menu li a,
-.elementor-nav-menu li a,
-.elementor-nav-menu .elementor-item,
-.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item {
-    color: var(--isn-text-white) !important;
-    font-family: var(--isn-font-family) !important;
+/* 2. Menu Links (Geral + Elementor) */
+body .elementor-nav-menu .elementor-item,
+body .elementor-nav-menu--main .elementor-item,
+body .elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item,
+body .main-navigation ul.menu li a,
+body .elementor-nav-menu li a {
+    color: #ffffff !important;
+    font-family: 'Quantico', sans-serif !important;
     text-transform: uppercase !important;
     font-weight: 700 !important;
-    font-size: 12px !important;
+    font-size: 14px !important;
     letter-spacing: 0.8px !important;
     padding: 12px 18px !important;
-    transition: color 0.3s ease !important;
+    transition: color 0.2s ease-in-out !important;
     background: transparent !important;
 }
 
-/* 4. Item Ativo ou Hover (Agressivo) */
-.main-navigation ul.menu li.current-menu-item a,
-.main-navigation ul.menu li a:hover,
-.elementor-nav-menu li.current-menu-item a,
-.elementor-nav-menu li a:hover,
-.elementor-nav-menu .elementor-item.elementor-item-active,
-.elementor-nav-menu .elementor-item:hover,
-.elementor-nav-menu .elementor-item.highlighted,
-.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:hover,
-.elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.elementor-item-active {
-    color: var(--isn-primary) !important;
+/* 3. Item Ativo ou Hover (Agressivo) */
+body .elementor-nav-menu .elementor-item.elementor-item-active,
+body .elementor-nav-menu .elementor-item:hover,
+body .elementor-nav-menu .elementor-item.highlighted,
+body .elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item:hover,
+body .elementor-widget-nav-menu .elementor-nav-menu--main .elementor-item.elementor-item-active,
+body .main-navigation ul.menu li.current-menu-item a,
+body .main-navigation ul.menu li a:hover,
+body .elementor-nav-menu li.current-menu-item a,
+body .elementor-nav-menu li a:hover {
+    color: #a4ec04 !important;
+    background: transparent !important;
 }
 
-/* 5. Barra de Busca e Widgets */
-.header-search-container,
-.elementor-search-form,
-.elementor-search-form__container {
+/* 4. Barra de Busca e Widgets */
+body .header-search-container,
+body .elementor-search-form,
+body .elementor-search-form__container {
     background: #FFFFFF !important;
     border-radius: 50px !important;
     padding: 2px 5px 2px 20px !important;
@@ -106,21 +110,21 @@ header#site-header,
     align-items: center !important;
 }
 
-.header-search-container input,
-.elementor-search-form__input {
+body .header-search-container input,
+body .elementor-search-form__input {
     background: transparent !important;
     border: none !important;
-    color: #333 !important;
-    font-family: var(--isn-font-family) !important;
+    color: #161616 !important;
+    font-family: 'Quantico', sans-serif !important;
     padding-left: 0 !important;
     width: 100% !important;
 }
 
-.elementor-search-form__submit,
-.header-search-container .search-submit {
-    background-color: var(--isn-primary) !important;
+body .elementor-search-form__submit,
+body .header-search-container .search-submit {
+    background-color: #a4ec04 !important;
     border-radius: 50% !important;
-    color: #000 !important;
+    color: #000000 !important;
     width: 38px !important;
     height: 38px !important;
     display: flex !important;
@@ -129,21 +133,21 @@ header#site-header,
     border: none !important;
 }
 
-/* 6. Links de Usuário e Carrinho */
-.header-user-links a,
-.elementor-menu-cart__toggle,
-.elementor-widget-user-links a {
-    color: var(--isn-text-white) !important;
-    font-family: var(--isn-font-family) !important;
+/* 5. Links de Usuário e Carrinho */
+body .header-user-links a,
+body .elementor-menu-cart__toggle,
+body .elementor-widget-user-links a {
+    color: #ffffff !important;
+    font-family: 'Quantico', sans-serif !important;
     font-size: 13px !important;
     text-transform: none !important;
     text-decoration: none !important;
 }
 
-.elementor-menu-cart__item-count,
-.cart-contents .count {
-    background-color: var(--isn-primary) !important;
-    color: #000 !important;
+body .elementor-menu-cart__item-count,
+body .cart-contents .count {
+    background-color: #a4ec04 !important;
+    color: #000000 !important;
     border-radius: 50% !important;
     padding: 2px 6px !important;
     font-size: 10px !important;
