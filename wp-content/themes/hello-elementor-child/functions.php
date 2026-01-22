@@ -128,6 +128,30 @@ function isn_force_style_injection()
             font-weight: bold !important;
         }
 
+        /* LOGIN NOTICE FOR HIDDEN PRICES */
+        .isn-login-to-see-price {
+            display: inline-block;
+            background-color: transparent !important;
+            color: var(--isn-primary) !important;
+            border: 2px solid var(--isn-primary) !important;
+            padding: 10px 20px !important;
+            border-radius: 5px !important;
+            font-family: 'Quantico', sans-serif !important;
+            font-weight: 700 !important;
+            text-transform: uppercase !important;
+            font-size: 13px !important;
+            text-decoration: none !important;
+            transition: all 0.3s ease !important;
+            margin: 10px 0 !important;
+            cursor: pointer;
+        }
+
+        .isn-login-to-see-price:hover {
+            background-color: var(--isn-primary) !important;
+            color: #000 !important;
+            box-shadow: 0 0 15px var(--isn-primary) !important;
+        }
+
         /* ANNOUNCEMENT BAR (If present) */
         .isn-top-announcement {
             background: #000 !important;
@@ -143,3 +167,31 @@ function isn_force_style_injection()
     <?php
 }
 add_action('wp_head', 'isn_force_style_injection', 999);
+
+/**
+ * WooCommerce: Hide Price & Add to Cart for Logged-Out Users
+ * Replacing it with a custom "Login to see price" button.
+ */
+add_filter('woocommerce_get_price_html', 'isn_hide_price_for_guests', 999, 2);
+function isn_hide_price_for_guests($price, $product)
+{
+    if (!is_user_logged_in()) {
+        $login_url = wp_login_url(get_permalink());
+        /* Redirecting to My Account is usually better in WooCommerce */
+        if (function_exists('wc_get_page_permalink')) {
+            $login_url = wc_get_page_permalink('myaccount');
+        }
+        return '<a href="' . esc_url($login_url) . '" class="isn-login-to-see-price">FAÇA LOGIN PARA VER O PREÇO</a>';
+    }
+    return $price;
+}
+
+/* Hide Add to Cart Button for Guests */
+add_action('init', 'isn_hide_add_to_cart_for_guests');
+function isn_hide_add_to_cart_for_guests()
+{
+    if (!is_user_logged_in()) {
+        remove_action('woocommerce_after_shop_loop_item', 'woocommerce_template_loop_add_to_cart', 10);
+        remove_action('woocommerce_single_product_summary', 'woocommerce_template_single_add_to_cart', 30);
+    }
+}
